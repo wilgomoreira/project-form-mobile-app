@@ -17,22 +17,22 @@
 
 **Images:**
 
-Form Screen
+## Form Screen
 
-![alt text](project/src/assets/screen1.jpeg) 
+![alt text](/project/src/assets/screen1.jpeg) 
 <br/>
 
-Data saved in the database
+## Data saved in the database
 
-![alt text](project/src/assets/screen2.jpeg)
+![alt text](/project/src/assets/screen2.jpeg)
 <br/>
 
-List of Employees
+## List of Employees
 
-![alt text](project/src/assets/screen3.jpeg)
+![alt text](/project/src/assets/screen3.jpeg)
 <br/>
 
-Database
+## Database
 
-![alt text](project/src/assets/database.png)
+![alt text](/project/src/assets/database.png)
 <br/>
